@@ -4,6 +4,7 @@
       * Purpose:
       * Tectonics: cobc
       ******************************************************************
+*> This code uses the ACCEPT Clause on the User-Name variable and display a greeting to the user
        IDENTIFICATION DIVISION.
        PROGRAM-ID. Enter-Username.
        Author Jean Buelvas.
